@@ -1,0 +1,6 @@
+{
+  "name": "Campus CanteenX Portal",
+  "description": "Futuristic Gen-Z college canteen online ordering website with live token queue tracking, dark glassmorphism aesthetic, student ID card top-up, and real-time menu management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
